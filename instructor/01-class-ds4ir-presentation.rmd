@@ -470,6 +470,27 @@ Além da documentação oficial do R, uma referência muito valiosa é o [Stack 
 
 </center>
 
+## Material adicional
+
+<center>
+![swirl](images/swirl.png){width=600px}
+
+
+[swirl teaches you R programming and data science interactively](https://swirlstats.com/)
+</center>
+
+
+
+## Material adicional
+<center>
+![primers](images/primers.png){width=600px}
+
+
+[RStudio Primers](https://rstudio.cloud/learn/primers)
+
+</center>
+
+
 ## Tarefa da aula
 
 As instruções da tarefa estão no arquivo `NN-class-ds4ir-assignment.rmd` da pasta 
