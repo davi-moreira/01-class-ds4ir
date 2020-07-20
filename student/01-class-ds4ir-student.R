@@ -49,7 +49,7 @@ ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, colour = country)) +
 # <center>
 #   ![pipeline](images/pipeline.png){width=700px}
 # </center>
-  
+
 #   ## 
 #   
 #   <center>
@@ -206,10 +206,10 @@ texto <- c("a", "b", "FGV-SP", "FGV-RJ")
 # 
 # ```{r eval=FALSE, echo=TRUE}
 
-i_use_snake_case
-otherPeopleUseCamelCase
-some.people.use.periods
-And_aFew.People_RENOUNCEconvention
+# i_use_snake_case
+# otherPeopleUseCamelCase
+# some.people.use.periods
+# And_aFew.People_RENOUNCEconvention
 
 # ```
 
@@ -323,7 +323,7 @@ typeof(impares)
 # 
 # ```{r results='hide'}
 nomes <- c("Rafael", "Davi", "Ana", "Pedro")
-formacao <- c("Ciência Política", "GPP", "Adm Publica", "GPP")
+formacao <- c("Data Science", "Ciência Política", "Adm Publica", "RI")
 tempo_empresa <- c(3, 10, 10, 1)
 
 equipe <- data.frame(nomes, formacao, tempo_empresa)
@@ -466,5 +466,3 @@ write_csv2(wb, here("data/wb-brazil-filter.csv"))
 # 
 # As instruções da tarefa estão no arquivo `NN-class-ds4ir-assignment.rmd` da pasta 
 # `assignment` que se encontra na raiz desse projeto.
-
-
